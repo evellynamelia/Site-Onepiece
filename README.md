@@ -21,6 +21,7 @@ Este projeto ainda está em andamento e continuarei trabalhando nele para adicio
 
 Sinta-se à vontade para explorar o site, fornecer feedback ou sugerir melhorias. Juntos, como fãs de One Piece, podemos criar um recurso útil e divertido para todos que amam essa história incrível.
 
-Acesse o site [aqui]((http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html)http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html) e embarque na jornada épica de One Piece!
+Acesse o site [aqui](http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html) e embarque na jornada épica de One Piece!
+
 
 
