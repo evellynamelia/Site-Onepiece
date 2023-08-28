@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,700;0,800;1,200;1,300;1,400;1,700;1,900&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 110px;
+    background: #121212;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 40px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header .logo{
+    position: relative;
+    max-width: 150px;
+}
+
+header .navegacao ul{
+    position: relative;
+    display: flex;
+
+}
+
+header .navegacao li{
+    list-style: none;
+}
+header .navegacao li a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 100px;
+}
+
+.sanfona{
+    width: 400%;
+    height: 100%;
+    max-width: 500px;
+    margin: 100px auto;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+    -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0 0 10px 1px  rgba(0, 0, 0, 0.35);
+    align-items: center;
+    display: flow-root;
+    overflow: visible;
+
+}
+
+.sanfona ul{
+    width: 2000px;
+}
+
+.sanfona li{
+    position: relative;
+    width: 400px;
+    float: left;
+    border-left: 1px solid #888;
+    box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+
+}
+
+.sanfona ul:hover li { width: 40px;}
+
+.sanfona ul li:hover { width: 640px;}
+
+.sanfona li img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.icons{
+    position: absolute;
+    bottom: 40px;
+    left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons li{
+    list-style: none;
+}
+
+.icons li a{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #222;
+    margin-left: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s ease-in-out;
+}
+
+.icons li a:hover{
+    background: #ff8608;
+    transform: translateY(-10px);
+}
+
+.icons li a img{
+    transform: scale(0.5);
+    filter: invert(1);
+}
