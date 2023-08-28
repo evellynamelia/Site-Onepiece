@@ -23,11 +23,19 @@ Sinta-se à vontade para explorar o site, fornecer feedback ou sugerir melhorias
 
 Acesse o site [aqui](http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html) e embarque na jornada épica de One Piece!
 
-## Fotos Atualizadas: Caso o link acima não abra, essas são as fotos atualizadas do site. Não estão totalmente prontas, porém todas as abas funcionam e ao decorrer do projeto o código e as fotos serão atualizadas.
+## Fotos Atualizadas: 
 
-<li>Tela Principal:</li><br>
-  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px">
+<h3>Caso o link acima não abra, essas são as fotos atualizadas do site. Não estão totalmente prontas, porém todas as abas funcionam e ao decorrer do projeto o código e as fotos serão atualizadas.</h3><br>
 
-<li>Tela Historia:</li><br>
+<h3>Tela Principal:</h3>
+  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px"><br>
+
+<h3>Tela Historia:</h3>
   <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231846.png" alt="Tela Principal" width="1066px" height="568px">
+
+<br>
+<h3>As outras Páginas que se encontram em desenvolvimento, estão exatamente assim:</h3>
+<img src="WebAnime - OnePiece/Captura de tela 2023-08-27 233711.png" alt="Tela Principal" width="1066px" height="568px">
+
+  
 
