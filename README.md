@@ -26,7 +26,5 @@ Acesse o site [aqui](http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html
 ## Fotos Atualizadas: Caso o link acima não abra, essas são as fotos atualizadas do site. Não estão totalmente prontas, porém todas as abas funcionam e ao decorrer do projeto o código e as fotos serão atualizadas.
 
 <li>Tela Principal:</li><br>
-<p align="center">
-  <img src="![Captura de tela 2023-08-27 231525](https://github.com/evellynamelia/Site-Onepiece/assets/128506800/a33ae10e-0817-46d1-b206-d283e5e9cf87)
-" alt="Tela Principal" width="300" height="300">
+  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px">
 
