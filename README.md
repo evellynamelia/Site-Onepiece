@@ -29,5 +29,5 @@ Acesse o site [aqui](http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html
   <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px">
 
 <li>Tela Historia:</li><br>
-  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231525.png" alt="Tela Principal" width="1066px" height="568px">
+  <img src="WebAnime - OnePiece/Captura de tela 2023-08-27 231846.png" alt="Tela Principal" width="1066px" height="568px">
 
