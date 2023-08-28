@@ -28,7 +28,5 @@ Acesse o site [aqui](http://127.0.0.1:5500/WebAnime%20-%20OnePiece/1WebHome.html
 <li>Tela Principal:</li><br>
 <p align="center">
   <img src="![Captura de tela 2023-08-27 231525](https://github.com/evellynamelia/Site-Onepiece/assets/128506800/a33ae10e-0817-46d1-b206-d283e5e9cf87)
-" alt="Tela Principal" >
-</p>
-</br>
+" alt="Tela Principal" width="300" height="300">
 
